@@ -1,4 +1,4 @@
-<h2>Bem-vindo(a) ao meu perfil Ivan Pereira</h2> 😁
+<h2>Olá, meu nome é Ivan! Bem-vindo(a) ao meu perfil 😁</h2>
 
  <div>
    <a href="https://github.com/Ivan-PdS">
